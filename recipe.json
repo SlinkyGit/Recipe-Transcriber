@@ -1,0 +1,41 @@
+{
+  "text": " 1 cup white sugar, 1 half cup unsalted butter, 2 large eggs, 2 teaspoons vanilla extract, 1.5 cups all-purpose flour, 1.75 teaspoons baking powder, 1 half cup milk.",
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "cup white sugar"
+    },
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "half cup unsalted butter"
+    },
+    {
+      "quantity": "2",
+      "unit": null,
+      "item": "large eggs"
+    },
+    {
+      "quantity": "2",
+      "unit": null,
+      "item": "teaspoons vanilla extract"
+    },
+    {
+      "quantity": "1.5",
+      "unit": null,
+      "item": "cups all-purpose flour"
+    },
+    {
+      "quantity": "1.75",
+      "unit": null,
+      "item": "teaspoons baking powder"
+    },
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "half cup milk"
+    }
+  ],
+  "instructions": []
+}
